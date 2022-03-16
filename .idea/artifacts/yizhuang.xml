@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yizhuang">
+    <output-path>$PROJECT_DIR$/out/artifacts/yizhuang</output-path>
+    <root id="archive" name="yizhuang.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RetireH5" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="RetireH5/web/Web" />
+    </root>
+  </artifact>
+</component>
