@@ -60,7 +60,7 @@ export default {                     ///////////////////////////
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#E6E6FA',
+          fill: '#FFFFFF',
           outer: {
             text: "朋友",
             color: '#000000',
@@ -68,13 +68,13 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star6.value,
-            color: '#8064A1'
+            color: '#E6E6FA'
           }
         },
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#E0FFFF',
+          fill: '#FFFFFF',
           outer: {
             text: "财务",
             color: '#000000',
@@ -82,13 +82,13 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star5.value,
-            color: '#50609C'
+            color: '#E0FFFF'
           }
         },
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#EEFFBB',
+          fill: '#FFFFFF',
           outer: {
             text: "事业",
             color: '#000000',
@@ -96,13 +96,13 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star2.value,
-            color: '#96B653'
+            color: '#EEFFBB'
           }
         },
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#AAFFEE',
+          fill: '#FFFFFF',
           outer: {
             text: "健康",
             color: '#000000',
@@ -110,13 +110,13 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star1.value,
-            color: '#579B9A'
+            color: '#AAFFEE'
           }
         },
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#FFDDAA',
+          fill: '#FFFFFF',
           outer: {
             text: "伴侣",
             color: '#000000',
@@ -124,13 +124,13 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star3.value,
-            color: '#D88A40'
+            color: '#FFDDAA'
           }
         },
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#FFA488',
+          fill: '#FFFFFF',
           outer: {
             text: "家庭",
             color: '#000000',
@@ -138,7 +138,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star4.value,
-            color: '#C14F4F'
+            color: '#FFA488'
           }
         },
 
