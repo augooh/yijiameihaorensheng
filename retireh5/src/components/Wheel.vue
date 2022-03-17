@@ -7,7 +7,7 @@
     <gorupstar ref="star2" title="事业" count="10" v-on:onClick="onClick"></gorupstar>
     <gorupstar ref="star3" title="伴侣" count="10" v-on:onClick="onClick"></gorupstar>
     <gorupstar ref="star4" title="家庭" count="10" v-on:onClick="onClick"></gorupstar>
-    <gorupstar ref="star5" title="账务" count="10" v-on:onClick="onClick"></gorupstar>
+    <gorupstar ref="star5" title="财务" count="10" v-on:onClick="onClick"></gorupstar>
     <gorupstar ref="star6" title="朋友" count="10" v-on:onClick="onClick"></gorupstar>
 
     <div class="title">你的生命轮：</div>
@@ -60,7 +60,7 @@ export default {                     ///////////////////////////
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#FDE0D8',
+          fill: '#E6E6FA',
           outer: {
             text: "朋友",
             color: '#000000',
@@ -74,9 +74,9 @@ export default {                     ///////////////////////////
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#FDE0D8',
+          fill: '#E0FFFF',
           outer: {
-            text: "账务",
+            text: "财务",
             color: '#000000',
             background: '#50609C'
           },
@@ -88,7 +88,7 @@ export default {                     ///////////////////////////
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#FDE0D8',
+          fill: '#EEFFBB',
           outer: {
             text: "事业",
             color: '#000000',
@@ -102,7 +102,7 @@ export default {                     ///////////////////////////
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#FDE0D8',
+          fill: '#AAFFEE',
           outer: {
             text: "健康",
             color: '#000000',
@@ -116,7 +116,7 @@ export default {                     ///////////////////////////
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#FDE0D8',
+          fill: '#FFDDAA',
           outer: {
             text: "伴侣",
             color: '#000000',
@@ -130,7 +130,7 @@ export default {                     ///////////////////////////
         {
           stroke: '#000000',
           lineWidth: 1,
-          fill: '#FDE0D8',
+          fill: '#FFA488',
           outer: {
             text: "家庭",
             color: '#000000',
