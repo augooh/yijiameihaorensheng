@@ -68,7 +68,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star6.value,
-            color: '#E6E6FA'
+            color: '#8064A1'
           }
         },
         {
@@ -82,7 +82,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star5.value,
-            color: '#6495ED'
+            color: '#50609C'
           }
         },
         {
@@ -96,7 +96,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star2.value,
-            color: '#EEFFBB'
+            color: '#96B653'
           }
         },
         {
@@ -110,7 +110,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star1.value,
-            color: '#48D1CC'
+            color: '#579B9A'
           }
         },
         {
@@ -124,7 +124,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star3.value,
-            color: '#FFDDAA'
+            color: '#D88A40'
           }
         },
         {
@@ -138,7 +138,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star4.value,
-            color: '#FFA488'
+            color: '#C14F4F'
           }
         },
 
