@@ -82,7 +82,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star5.value,
-            color: '#E0FFFF'
+            color: '#6495ED'
           }
         },
         {
@@ -110,7 +110,7 @@ export default {                     ///////////////////////////
           },
           data: {
             val: this.$refs.star1.value,
-            color: '#AAFFEE'
+            color: '#48D1CC'
           }
         },
         {
